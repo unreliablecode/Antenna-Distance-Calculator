@@ -83,12 +83,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details
-
-You'll want to:
-
-1. Create this as `README.md` in your project root
-2. Add a `LICENSE` file if you want to use MIT license (or another license)
-3. Consider adding an actual screenshot named `screenshot.png`
-4. Update any details specific to your project
-
-The README follows standard GitHub formatting and includes all the key sections users would expect. It explains the technical basis of the calculation while keeping the usage instructions simple.
