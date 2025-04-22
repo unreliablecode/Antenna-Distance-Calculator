@@ -1,4 +1,5 @@
 # Antenna Distance Calculator
+![image](https://github.com/user-attachments/assets/7d47a81f-3a71-4276-8665-f7b756896c75)
 
 A C# console application that calculates the maximum theoretical distance between two antennas using the Friis transmission equation.
 
