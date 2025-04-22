@@ -2,8 +2,6 @@
 
 A C# console application that calculates the maximum theoretical distance between two antennas using the Friis transmission equation.
 
-![Screenshot](screenshot.png) *(Consider adding an actual screenshot later)*
-
 ## Features
 
 - Calculates maximum communication distance between antennas
